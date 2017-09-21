@@ -20,7 +20,7 @@ $(call inherit-product, device/alcatel/4034/device.mk)
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_NAME := lineage_4034
-PRODUCT_DEVICE := 4034
+PRODUCT_DEVICE := 4034E
 PRODUCT_BRAND := alcatel
 PRODUCT_MODEL := Alcatel Pixi4
 PRODUCT_MANUFACTURER := alcatel
